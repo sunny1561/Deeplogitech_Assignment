@@ -9,7 +9,7 @@ Langauge Used -Java
  inside the folder you can see file sunny.java
  # open terminal
  # for Compile use the command     javac sunny.java   
- # for Run use the command       java sunny
+ # for Run use the command         java sunny
 
 
  after running sunny.java file you will see one service url in the terminal click on that it will redirect you to the   http://localhost:8080/getTimeStories page where you can see the 6 latest news 
