@@ -3,6 +3,8 @@
 Web_Scraping (Extracting 6 Latest News from the given  source page  time.com)
 Langauge Used -Java
 
+# port i used 8080 
+
  # Instruction for running the code
  # Better to use Visual stdio code to run the code  // I prefer
  just unzip the file (Assignment_deeplogitech_sunnykumar)
