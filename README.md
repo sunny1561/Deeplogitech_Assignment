@@ -1,6 +1,6 @@
 # Deeplogitech_Assignment 
 
-Web_Scraping (Extracting 6 Latest News from the source page given time.com)
+Web_Scraping (Extracting 6 Latest News from the given  source page  time.com)
 Langauge Used -Java
 
  # Instruction for running the code
